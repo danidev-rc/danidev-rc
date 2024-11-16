@@ -1,12 +1,9 @@
 # Hola 👋, Soy Dante Rodríguez Chambi
 
----
-
 Soy un **Desarrollador de Software** especializado en el desarrollo web, apasionado por crear soluciones funcionales, escalables y con un enfoque en la experiencia del usuario.
 
 ## 🧑‍💻 Sobre mí
 
----
 
 - 🎯 Mi objetivo es mejorar continuamente mis habilidades como desarrollador.
 - 💡 Siempre en constante aprendizaje, explorando nuevas tecnologías y herramientas.
@@ -14,7 +11,6 @@ Soy un **Desarrollador de Software** especializado en el desarrollo web, apasion
 
 ## 🚀 Habilidades Técnicas
 
----
 
 <p align="center">
   <a href="https://skillicons.dev">
