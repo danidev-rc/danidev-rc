@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola 👋, Soy Dante Rodríguez Chambi
 
-<!--
-**danidev-rc/danidev-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Soy un **Desarrollador de Software** especializado en el desarrollo web, apasionado por crear soluciones funcionales, escalables y con un enfoque en la experiencia del usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mí
+
+- 🎯 Mi objetivo es mejorar continuamente mis habilidades como desarrollador.
+- 💡 Siempre en constante aprendizaje, explorando nuevas tecnologías y herramientas.
+- 🌱 Actualmente profundizando en frameworks en el Backend **Express** y **NestJS**, en el Frontend **React** y **Astro**.
+
+---
+
+## 🚀 Habilidades Técnicas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss" alt="Lenguajes y Estilos" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,express,react,vite,astro" alt="Frameworks y Librerías" />
+    <img src="https://skillicons.dev/icons?i=vercel,supabase,linux,bash,git,figma,notion" alt="Herramientas y Plataformas" />
+   <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb" alt="Bases de Datos" />
+  </a>
+</p>
+
+## 📫 ¿Dónde encontrarme?
+
+- 📧 **Correo:** [dantesamuelrodriguez@gmail.com](dantesamuelrodriguez@gmail.com)
+- 🌐 **Portafolio:** [Mi Portafolio](https://portfolio-danidev-rc.vercel.app/)
+- 💼 **LinkedIn:** [Dante Rodríguez](https://www.linkedin.com/in/dante-samuel-rodriguez-chambi-444041279/)
+
+---
+
+<h2 align="center">¡Gracias por visitar mi perfil! 🚀✨</h2>
