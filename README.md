@@ -1,6 +1,6 @@
 # Hola 👋, Soy Dante Rodríguez Chambi
 
-Soy un **Desarrollador de Software** especializado en el desarrollo web, apasionado por crear soluciones funcionales, escalables y con un enfoque en la experiencia del usuario.
+Soy un egresado como **Desarrollador de Software** especializado en el desarrollo web, apasionado por crear soluciones funcionales, escalables y con un enfoque en la experiencia del usuario.
 
 ## 🧑‍💻 Sobre mí
 
