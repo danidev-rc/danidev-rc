@@ -14,8 +14,8 @@ Soy un egresado como **Desarrollador de Software** especializado en el desarroll
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss" alt="Lenguajes y Estilos" />
-    <img src="https://skillicons.dev/icons?i=nodejs,django,express,react,vite,astro" alt="Frameworks y Librerías" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss" alt="Lenguajes y Estilos" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,astro" alt="Frameworks y Librerías" />
     <img src="https://skillicons.dev/icons?i=vercel,supabase,linux,bash,git,figma,notion" alt="Herramientas y Plataformas" />
    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb" alt="Bases de Datos" />
   </a>
